@@ -1,0 +1,5 @@
+SQL> SELECT FIRST_NAME , DEPARTMENT_ID FROM EMPLOYEES WHERE EMPLOYEE_ID = 180;
+
+FIRST_NAME           DEPARTMENT_ID
+-------------------- -------------
+Winston                         50
